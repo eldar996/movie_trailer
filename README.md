@@ -1,14 +1,15 @@
-#My Fabulous Recipe#
+# My Fabulous Recipe #
 
 This recipe for **cereal and milk** has been passed down my family for months.
 
 
-##Ingredients##
+## Ingredients ##
 
 -Cereal (you can find cool cereals <a href="www.example.com/coolcereals">here</a>)
+
 -Milk
 
-##Directions##
+## Directions ##
 
 If I were writing these out as *code*, it might look something like this:
 
